@@ -1,0 +1,7 @@
+CH_1 = [o4 c/o3 g/o4 d+ o3 g]*4
+CH_2 = [o4 f/o4 c/o3 g+ o3 g+]*4
+CH_3 = [o4 d+/ o3 g/ o3 a+ o3 g]*4 o4 f o4 d+ 
+CH_4 = [o4 f/ o4 d/ o3 a+ o3 a+]*4 o4 d+ o4 d
+
+piano:
+[CH_1 CH_2 CH_3 CH_4]*5 CH_1 CH_2
